@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Software Engineer 👋
 
-<!--
-**softwareengineer10000000-prog/softwareengineer10000000-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full-Stack Developer building modern web applications and PWAs.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, PHP, HTML5, CSS3
+- **Web Technologies:** Progressive Web Apps (PWA), REST APIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [taskapp](https://github.com/softwareengineer10000000-prog/taskapp) - A full-stack PWA task manager built with Vanilla JS and PHP.
+
+- ### 📊 GitHub Stats
+- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=softwareengineer10000000-prog&show_icons=true&theme=dark)
+- ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=softwareengineer10000000-prog&layout=compact&theme=dark)
