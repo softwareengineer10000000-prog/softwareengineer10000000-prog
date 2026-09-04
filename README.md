@@ -14,6 +14,6 @@ A passionate Full-Stack Developer building modern web applications and PWAs.
 - [taskapp](https://github.com/softwareengineer10000000-prog/taskapp) - A full-stack PWA task manager built with Vanilla JS and PHP.
 
 ### 📊 GitHub Overview
-![Repositories](https://img.shields.io/badge/Repositories-15-blue?style=for-the-badge&logo=github)
+![Repositories](https://img.shields.io/badge/Repositories-2-blue?style=for-the-badge&logo=github)
 ![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge&logo=github)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20PWA-orange?style=for-the-badge&logo=codefactor)
